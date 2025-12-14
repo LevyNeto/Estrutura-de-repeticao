@@ -1,2 +1,2 @@
-# Estrutura-de-repetica
+# Estrutura-de-repeticao
 Lógica de programação
